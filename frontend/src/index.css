@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.hover-menu:hover{
+  color: #0CBF83;
+  text-decoration: underline;
+}
+
+.btn-color{
+  background-color: #0CBF83;
+  color: white;
+  
+}
+.btn-color:hover{
+  background-color: #34d39e;
+  color: white;
+  
+}
